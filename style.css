@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+img {
+    width: 1500px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
